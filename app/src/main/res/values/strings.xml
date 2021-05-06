@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">AI-Explorer</string>
-    <string name="title_home">Home</string>
+    <string name="title_home">홈으로</string>
     <string name="title_object_explore" translatable="false">사물 탐구</string>
     <string name="title_search_keyword" translatable="false">키워드 탐색</string>
 
